@@ -1,0 +1,14 @@
+D:\Project\MS Visual Studio\TaskBukreev\TaskBukreev\bin\Debug\net8.0\TaskBukreev.exe
+D:\Project\MS Visual Studio\TaskBukreev\TaskBukreev\bin\Debug\net8.0\TaskBukreev.deps.json
+D:\Project\MS Visual Studio\TaskBukreev\TaskBukreev\bin\Debug\net8.0\TaskBukreev.runtimeconfig.json
+D:\Project\MS Visual Studio\TaskBukreev\TaskBukreev\bin\Debug\net8.0\TaskBukreev.dll
+D:\Project\MS Visual Studio\TaskBukreev\TaskBukreev\bin\Debug\net8.0\TaskBukreev.pdb
+D:\Project\MS Visual Studio\TaskBukreev\TaskBukreev\obj\Debug\net8.0\TaskBukreev.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\MS Visual Studio\TaskBukreev\TaskBukreev\obj\Debug\net8.0\TaskBukreev.AssemblyInfoInputs.cache
+D:\Project\MS Visual Studio\TaskBukreev\TaskBukreev\obj\Debug\net8.0\TaskBukreev.AssemblyInfo.cs
+D:\Project\MS Visual Studio\TaskBukreev\TaskBukreev\obj\Debug\net8.0\TaskBukreev.csproj.CoreCompileInputs.cache
+D:\Project\MS Visual Studio\TaskBukreev\TaskBukreev\obj\Debug\net8.0\TaskBukreev.dll
+D:\Project\MS Visual Studio\TaskBukreev\TaskBukreev\obj\Debug\net8.0\refint\TaskBukreev.dll
+D:\Project\MS Visual Studio\TaskBukreev\TaskBukreev\obj\Debug\net8.0\TaskBukreev.pdb
+D:\Project\MS Visual Studio\TaskBukreev\TaskBukreev\obj\Debug\net8.0\TaskBukreev.genruntimeconfig.cache
+D:\Project\MS Visual Studio\TaskBukreev\TaskBukreev\obj\Debug\net8.0\ref\TaskBukreev.dll
